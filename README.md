@@ -13,14 +13,14 @@ Click [here](https://github.com/Fran0616/BinomialCoefficient/blob/main/binomial.
 
 Test Data
 = 
-Variable
+Variable Definition:
 ```
 num = 12
 num2 = 5
 
 ```
 
-Output
+Outpu:
 ```
 B( 12 , 5 ) = 792
 ```
